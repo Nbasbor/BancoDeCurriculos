@@ -1,0 +1,19 @@
+{
+  "name": "bancodecurriculos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7",
+    "mongoose": "^6.0.2",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  }
+}
